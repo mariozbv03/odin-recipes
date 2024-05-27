@@ -1,0 +1,15 @@
+.Title {
+    font-size: xx-large;
+    text-align: center;
+    background-color: rgba(53, 53, 174, 0.717);
+    color: white;
+}
+ol li {
+    color: rgba(53, 53, 174, 0.717);
+    padding: 10px;
+    list-style: lower-latin;
+}
+
+ol {
+    background-color: grey;
+}
